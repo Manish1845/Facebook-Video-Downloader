@@ -1,7 +1,7 @@
 # Facebook-Video-Downloader
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55880211/78421196-640b4c00-7673-11ea-879d-165cd15ef39c.png">
+  <img src="">
 </p>
 
 Facebook Video Downloader is simple script written in python that let you download and save your favorite Facebook videos to your computer in HD(High Defination) quality or in SD(Standard Defination) quality.
